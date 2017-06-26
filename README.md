@@ -16,4 +16,4 @@ Doc:
 This python script use MD5 hash to identify file, if doesn't exist, will be add to list.
 However if file exist, he is deleted.
 
-- [ ] Dit you like it ?
+- [x] Did you like it ?
